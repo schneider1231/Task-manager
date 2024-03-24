@@ -1,7 +1,7 @@
 # Task Manager Application
 
 ## Description
-This is a simple task manager application that allows users to register, login, add tasks, view tasks, and generate reports. Users can register with a username and password, and then log in to access the system. Once logged in, users can add tasks, view all tasks, view their own tasks, mark tasks as complete, edit tasks, and generate reports on task and user statistics.
+This is a task manager application that allows users to register, login, add tasks, view tasks, and generate reports. Users can register with a username and password, and then log in to access the system. Once logged in, users can add tasks, view all tasks, view their own tasks, mark tasks as complete, edit tasks, and generate reports on task and user statistics.
 
 # Instructions
 
